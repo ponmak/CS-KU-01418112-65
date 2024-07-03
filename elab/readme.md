@@ -2,4 +2,4 @@
 
 #### content
 
-- [lab 00 intro](./"Lab 00 intro"/readme.md/)
+- <a href="elab\Lab 00 intro">lab 00 intro</a>
