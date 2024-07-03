@@ -2,7 +2,7 @@
 2024 Y1 S1 01418112-65 Fundamental Programming Concepts. 
 
 ##### This repository is for explain elab/lecture and find elab solution 📖
-### *because the lab is fast and ver boring lecture* 🛌
+### *because the lab is fast and very boring lecture* 🛌
 
 ## Contents 🥓
 
