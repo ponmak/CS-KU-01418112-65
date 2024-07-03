@@ -10,7 +10,7 @@
 - elab solution
 - lecture explaining and slide
 - contributors lecture's note
-- learing pyton center / contributors problem set for practice
+- learing python center / contributors problem set for practice
 
 # Disclaimer ⚠️
 ## FRIST AND THE MOST IMPORTANT RULE ❗: DO NOT COPY AND SUBMIT IN EVERY CAUSE EVEN IF YOU NEED 1 MIN TO DO.
