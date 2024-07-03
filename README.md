@@ -13,7 +13,7 @@
 - learing python center / contributors problem set for practice
 
 # Disclaimer ⚠️
-## FRIST AND THE MOST IMPORTANT RULE ❗: <br/>DO NOT COPY AND SUBMIT IN EVERY CAUSE EVEN IF YOU NEED 1 MIN TO DO.<br/>
+## FIRST AND THE MOST IMPORTANT RULE ❗: <br/>DO NOT COPY AND SUBMIT IN EVERY CAUSE EVEN IF YOU NEED 1 MIN TO DO.<br/>
 
 - YOU MUST WRITE IT WHICH YOU OWN. IF YOU SUBMIT EXACTLY THE SAME YOU WILL MAKE SOMEONE GOT ZERO POINT. PLASE COPY AND CHANGE SONETHING OR WRITE IT BY YOURSELF. WE MADE THIS FOR TEACHING NOT FOR STOLEN FROM SOMEONE.
 
@@ -48,7 +48,7 @@ $PROJECT_ROOT
 
 # Last but not least
 #### *Have fun ⭐* I know this way this pretty hard. I’ll tell you the secret to fighting strong enemies. It’s easy, keep getting up and attack them with your moves continuously.
-#### I knew someone who came to this repo copy. Yes, you can but Victory is never decided by programing performance alone. Nor by the skill of the programmer, alone. The result itself is the only truth!
+#### I knew someone who came to this repo copy. Yes, you can but Victory is never decided by program performance alone. Nor by the skill of the programmer, alone. The result itself is the only truth!
 ### “I’M THE KIND OF PERSON WHO FALLS FLAT ON HER FACE A LOT. BUT THAT MAKES ME A PRO AT DUSTING MYSELF OFF AND GETTING BACK UP!”
 
 <p align="center">
