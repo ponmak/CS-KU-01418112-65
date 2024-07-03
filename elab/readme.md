@@ -2,4 +2,4 @@
 
 #### content
 
-- <a href="elab\Lab 00 intro">lab 00 intro</a>
+- <a href="\Lab 00 intro">lab 00 intro</a>
