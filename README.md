@@ -1,4 +1,4 @@
-# CS-KU-01418112-65
+# CS-KU-01418112-65 CS39 
 2024 Y1 S1 01418112-65 Fundamental Programming Concepts. 
 
 ##### This repository is for explain elab/lecture and find elab solution 📖
