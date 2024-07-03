@@ -2,4 +2,4 @@
 
 #### content
 
-- <a href="\Lab 00 intro">lab 00 intro</a>
+- [lab 00 intro](./Lab%2000%20intro/)
