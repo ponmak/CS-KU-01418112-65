@@ -2,4 +2,4 @@
 
 #### content
 
-- [lab 00 intro](./elab/Lab%200%20intro/)
+- [lab 00 intro](./"Lab 00 intro"/readme.md/)
