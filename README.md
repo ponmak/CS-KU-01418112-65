@@ -8,9 +8,9 @@
 
 ## Contents 🥓
 
-- elab explaining 
+- elab explanation 
 - elab solution
-- lecture explaining and slide
+- lecture explanation and slide
 - contributors lecture's note
 - learing python center / contributors problem set for practice
 
@@ -19,13 +19,13 @@
 
 - YOU MUST WRITE IT WHICH YOU OWN. IF YOU SUBMIT EXACTLY THE SAME YOU WILL MAKE SOMEONE GOT ZERO POINT. PLASE COPY AND CHANGE SONETHING OR WRITE IT BY YOURSELF. WE MADE THIS FOR TEACHING NOT FOR STOLEN FROM SOMEONE.
 
-### Second. This repository can commit by other contributors. Maybe sone elab/lecture explining or elab solution is wrong. Plase contact us from discord or use issues syetem in github.
+### Second. This repository can commit by other contributors. Maybe sone elab/lecture explanation or elab solution is wrong. Plase contact us from discord or use issues syetem in github.
 ### Thrid. Don't worry, We will write thai and simply AP.
 
 #### we will appreciate if you sent a issues to make us more understand what we learned
 
 # Contributors 🚀
-### Anyone who can use git or you want to write exlpaining elab/lecture. Feel free to folk this repo and pull request or contact us. I will commit ASAP. If you commit more enough, You can request github collaborator role. It will make easy for commite and help us checking other PR. Thanks for your hard work on this 🙏. 
+### Anyone who can use git or you want to write elab/lecture explanation. Feel free to folk this repo and pull request or contact us. I will commit ASAP. If you commit more enough, You can request github collaborator role. It will make easy for commite and help us checking other PR. Thanks for your hard work on this 🙏. 
 #
 
 # Project structure 🏗️
@@ -37,7 +37,7 @@ I think, This is more complex than it should be. contact us from making easy to 
 $PROJECT_ROOT
 ├── elab        # All elab folders
 |   └── elab n                  # elab week n folders
-|        └── explaining elab             # .md
+|        └── explanation elab            # .md
 |        └── elab solution               # .py or .ipynb
 ├── lecture     # lecture elab
 |   └── lecture n               # lecture week n folders
