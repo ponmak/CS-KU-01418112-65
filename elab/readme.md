@@ -10,6 +10,6 @@
 
 ## content
 
-- [lab 00 intro](./Lab%2000%20intro/)
+- [lab 01 intro](./Lab%2001%20intro/)
 - [lab 01 Problem](./lab%2001%20Problems/)
 
