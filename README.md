@@ -1,4 +1,4 @@
-# CS-KU-01418112-65 CS39 
+# CS-KU-01418112-67 CS39 
 2024 Y1 S1 01418112-65 Fundamental Programming Concepts. 
 
 ##### This repository is for explain elab/lecture and find elab solution 📖
@@ -13,6 +13,7 @@
 - lecture explanation and slide
 - contributors lecture's note
 - learing python center / contributors problem set for practice
+- 01418111_67 lecture translated
 
 # Disclaimer ⚠️
 ## FIRST AND THE MOST IMPORTANT RULE ❗: <br/>DO NOT COPY AND SUBMIT IN EVERY CAUSE EVEN IF YOU NEED 1 MIN TO DO.<br/>
@@ -45,6 +46,7 @@ $PROJECT_ROOT
 |        └── lecture silde               # .pdf or .goodnote (if you are apple lover 😔)
 |        └── contributors lecture's note # .pdf or .goodnote (if you are apple lover 😔)
 └── learning pyhton center # comming soon (commit want ever you want)
+└── 01418111_67 lecture translated # comming soon (commit want ever you want)
     
 ```
 
