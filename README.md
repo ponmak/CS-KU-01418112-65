@@ -4,6 +4,8 @@
 ##### This repository is for explain elab/lecture and find elab solution 📖
 ### *because the lab is fast and very boring lecture* 🛌
 
+### 🚧 ภาษาไทยกำลังทำให้หรอแปป 
+
 ## Contents 🥓
 
 - elab explaining 
@@ -42,7 +44,7 @@ $PROJECT_ROOT
 |        └── explaining lecture          # .md
 |        └── lecture silde               # .pdf or .goodnote (if you are apple lover 😔)
 |        └── contributors lecture's note # .pdf or .goodnote (if you are apple lover 😔)
-└── learing pyton center # comming soon (commit want ever you want)
+└── learning pyhton center # comming soon (commit want ever you want)
     
 ```
 
