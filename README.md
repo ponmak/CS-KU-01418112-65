@@ -25,7 +25,7 @@
 #### we will appreciate if you sent a issues to make us more understand what we learned
 
 # Contributors 🚀
-### Anyone who can use git or you want to write elab/lecture explanation. Feel free to folk this repo and pull request or contact us. I will commit ASAP. If you commit more enough, You can request github collaborator role. It will make easy for commite and help us checking other PR. Thanks for your hard work on this 🙏. 
+### Anyone who can use git or you want to write elab/lecture explanation. Feel free to fork this repo and pull request or contact us. I will commit ASAP. If you commit more enough, You can request github collaborator role. It will make easy for commite and help us checking other PR. Thanks for your hard work on this 🙏. 
 #
 
 # Project structure 🏗️
