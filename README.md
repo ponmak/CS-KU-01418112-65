@@ -1,10 +1,9 @@
 # CS-KU-01418112-67 CS39 
 2024 Y1 S1 01418112-65 Fundamental Programming Concepts. 
-
-##### This repository is for explain elab/lecture and find elab solution 📖
-### *because the lab is fast and very boring lecture* 🛌
-
 ### 🚧 ภาษาไทยกำลังทำให้หรอแปป 
+
+##### Repository นี้มีไว้เพื่ออธิบายความรู้สำหรับ Elab/Lacture รวมถึงการหาวิธีการแก้ไขปัญหาต่างๆใน Elab 📖
+### * เนื่องด้วย ELab ในวิชานี้สอนค่อนข้างเร็วและเนื้อหาค่อนข้างน่าเบื่อ *🛌 
 
 ## Contents 🥓
 
