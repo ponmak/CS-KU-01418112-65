@@ -1,7 +1,7 @@
 #Area of a circle with radius
 
 import math # import math เพื่อใช้ค่า pi 
-# การเรียกใช้ค่า pi  ต้อใช้ ชื่อ lib ตามด้วย method ตามต้อการ
+# การเรียกใช้ค่า pi ต้อใช้ ชื่อ lib ตามด้วย method ตามต้อการ
 
 r = int(input("Enter a radius: ")) # เขียน prompt ตามโจทย์ด้วนนะ
 

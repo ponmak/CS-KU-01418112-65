@@ -12,6 +12,7 @@ price = 12.54
 output = f"Price in Swiss Franks: {price * 1.086}"
 print(output)
 
+# :10.2f mean จองพื้นที่ 10 ตัวอักษร จากฝั่งขวา และมี 2 ตำแหน่งทศนิยม
 price = 12.54
 rate = 1.086
 output = f"Price in Swiss Franks: {price * rate:10.2f}"

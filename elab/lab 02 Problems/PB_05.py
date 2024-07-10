@@ -4,10 +4,10 @@
 km = int(input())
 volume = int(input())
 
-# calu func
-ka_times = km / (15 * volume * (50/100)) 
-kuy_times = km / (15 * volume * (90/100)) 
+# คำนวณเวลาที่ใช้ในการเติมน้ำเข้าสระว่ายน้ำ
+cup_times = km / (15 * volume * (50/100)) # แก้ว
+hair_times = km / (15 * volume * (90/100)) # ขวัญ
 
-print(int(ka_times) + 1)
-print(int(kuy_times) + 1)
+print(int(cup_times) + 1) 
+print(int(hair_times) + 1)
 
