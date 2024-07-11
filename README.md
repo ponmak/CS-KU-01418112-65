@@ -7,12 +7,12 @@
 
 ## Contents 🥓
 
-- elab explanation 
-- elab solution
-- lecture explanation and slide
-- contributors lecture's note
-- learing python center / contributors problem set for practice
-- 01418111_67 lecture translated
+- อธิบาย Elab
+- แก้โจทย์ Elab
+- Lecture อธิบายต่างๆ
+- ช่วยตอบคำถามและให้ข้อมูล Lecture's note
+- สอนการเรียนภาษา python / อธิบายปัญหาต่างๆในโจทย์สำหรับการฝึกฝน
+- 01418111_67 Lecture แปลไทย
 
 # Disclaimer ⚠️
 ## FIRST AND THE MOST IMPORTANT RULE ❗: <br/>DO NOT COPY AND SUBMIT IN EVERY CAUSE EVEN IF YOU NEED 1 MIN TO DO.<br/>
