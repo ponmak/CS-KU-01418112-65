@@ -12,4 +12,7 @@
 
 - [lab 01 intro](./Lab%2001%20intro/)
 - [lab 01 Problem](./lab%2001%20Problems/)
-
+- [lab 02 Formatted Output](./lab%2002%20Formatted%20Output/)
+- [lab 02 Problem](./lab%2002%20Problems/)
+- [lab 03 Conditional Statement](./lab%2003%20Conditional%20Statement/)
+- [lab 03 Problem](./lab%2003%20Problem/)
