@@ -4,7 +4,7 @@ import math
 x = float(input('Enter x : '))
 
 if x < 0:
-    y = (x**2 + 1)** 1/2 
+    y = (x**2 + 1)** (1/2) 
     plb = f'f({x:.2f}) = {math.ceil(y)}'    
     print(plb)
 elif x == 0:
