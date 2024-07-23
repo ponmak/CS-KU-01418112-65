@@ -29,6 +29,8 @@ if n < 0 and n > 100:  '''
 n = 1
 if n < 0 and n > 100: # output : False
     print(True)
+else:
+    print(False)
     
 # ต้องการตรวจสอบว่า n อยู่ในช่วงปิด [0, 100] หรือไม่
 n = 0
