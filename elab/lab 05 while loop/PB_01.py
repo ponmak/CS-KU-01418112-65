@@ -32,9 +32,12 @@ while counter < i:
 # พิมพ์จำนวนที่นับได้
 
 i = int(input())
+j = 0
 counter = 0
-while counter <= i:
-    counter += 1
+while j <= i:
+    if j % 3 != 0:
+        counter += 1
+    j += 1
 print(counter)
 
 # Exercise 5
@@ -51,8 +54,8 @@ while True:
     if i == num:
         break
     else:
-        s_stu = int(input())
-        if s_stu >= 40:
+        s_stu = float(input())
+        if s_stu > 40:
             more_than_40 += 1
             sum_stu += s_stu
             i += 1

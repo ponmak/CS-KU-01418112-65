@@ -23,5 +23,5 @@ while True:
 
 avg = summ / (counter - 1)
 print(f'{maxx:.2f} {minn:.2f}')
-print(f'{summ:.2f} {maxx:.2f}')
+print(f'{summ:.2f} {avg:.2f}')
 
