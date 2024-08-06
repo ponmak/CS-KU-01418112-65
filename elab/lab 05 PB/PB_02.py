@@ -28,8 +28,3 @@ else:
     else:
         total = 50 * (round_up_hour - 4)
         print(f'Total amount due is {total} Baht, thank you.')
-
-
-
-    
-    
