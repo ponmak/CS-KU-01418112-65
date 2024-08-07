@@ -23,7 +23,7 @@ elif day == 6:
 elif day == 7:
     day_text = 'saturday'
 
-if (hour > 3 and hour < 12) or (hour == 12 and minute < 1) or (hour == 4 and minute == 1):
+if (hour > 4 and hour < 12) or (hour == 12 and minute < 1) or (hour == 4 and minute >= 1):
     time = 'morning'
 elif (hour > 11 and hour < 18) or (hour == 18 and minute <1) or (hour == 12 and minute == 1):
     time = 'afternoon'

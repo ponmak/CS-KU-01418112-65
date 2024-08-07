@@ -4,53 +4,23 @@ day_start = int(input())
 day_index = int(input())
 
 # Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
-'''
-if day_index > 7 or day_index < 1:
-    print('ERROR')
+if day_start < 1 or day_start > 7 or day_index < 1 or day_index > 31:
+    print("ERROR")
 else:
-    i = day_index
-    while i < day_in_months:
-        if day_index == 8:
-            day_index = 1
-            i += 1
-        elif i == day_in_months:
-            break
-        else:
-            day_index += 1
-            i += 1
+    len_day  = day_index - day_start 
+    len_day %= 7
 
-    if day_index == 1:
-        print('Sunday')  
-    elif day_index == 2:
-        print('Monday')
-    elif day_index == 3:
-        print('Tuesday')
-    elif day_index == 4:
-        print('Wednesday')
-    elif day_index == 5:
-        print('Thursday')
-    elif day_index == 6:
-        print('Friday')
-    elif day_index == 7:
-        print('Saturday') '''
-if(day_start < 32 or day_index < 32):
-
-    day_index = day_index % 7 + day_start
-    print(day_index)
-
-    if day_index == 1:
-        print('Sunday')  
-    elif day_index == 2:
-        print('Monday')
-    elif day_index == 3:
-        print('Tuesday')
-    elif day_index == 4:
-        print('Wednesday')
-    elif day_index == 5:
-        print('Thursday')
-    elif day_index == 6:
-        print('Friday')
-    elif day_index == 7:
-        print('Saturday')
-else:
-    print('ERROR')
+if len_day == 0:
+    print('Sunday')
+elif len_day == 1:
+    print('Monday')
+elif len_day == 2:
+    print('Tuesday')
+elif len_day == 3:
+    print('Wednesday')
+elif len_day == 4:
+    print('Thursday')
+elif len_day == 5:
+    print('Friday')
+elif len_day == 6:
+    print('Saturday')
