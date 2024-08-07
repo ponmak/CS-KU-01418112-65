@@ -10,17 +10,17 @@ else:
     len_day  = day_index - day_start 
     len_day %= 7
 
-if len_day == 0:
-    print('Sunday')
-elif len_day == 1:
-    print('Monday')
-elif len_day == 2:
-    print('Tuesday')
-elif len_day == 3:
-    print('Wednesday')
-elif len_day == 4:
-    print('Thursday')
-elif len_day == 5:
-    print('Friday')
-elif len_day == 6:
-    print('Saturday')
+    if len_day == 0:
+        print('Sunday')
+    elif len_day == 1:
+        print('Monday')
+    elif len_day == 2:
+        print('Tuesday')
+    elif len_day == 3:
+        print('Wednesday')
+    elif len_day == 4:
+        print('Thursday')
+    elif len_day == 5:
+        print('Friday')
+    elif len_day == 6:
+        print('Saturday')
