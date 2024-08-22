@@ -39,3 +39,16 @@ else:
                     i += 1
                 else:
                     break
+
+
+# Leo at lampoon's solution
+n = int(input("Enter positive integer: "))
+i = 2 
+if n <= 0:
+    print("Invalid number.")
+while n != 1 and i <= n:
+    if n % i == 0:
+        n /= i
+        print(i)
+    else:
+        i += 1
