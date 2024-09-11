@@ -5,16 +5,10 @@ import math
 # กูยำรวมมิตรเลยละกัน
 def find_sd(l):
     # sort max
-    max_s = 0
-    for item in l:
-        if max_s < item:
-            max_s = item
+    max_s = max(l)
 
     # sort min
-    min_s = 100
-    for item in l:
-        if  min_s > item:
-            min_s = item
+    min_s = min(l)
 
     # cal avg
     avg = sum(l) / len(l)
