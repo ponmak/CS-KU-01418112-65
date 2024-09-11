@@ -12,7 +12,7 @@ def find_mode(l):
 
     #print(ans_list)
 
-    # bubble sort
+    # bubble sort : sort list by not using built-in sort
     for i in range(len(ans_list)):
         for j in range(len(ans_list) - i - 1):
             if ans_list[j] > ans_list[j+1]:
@@ -35,13 +35,16 @@ def find_mode(l):
 
 scores = []
 
-for _ in range(20):
+i = 0
+while i < 20:
     score = int(input("Enter score: "))
-    if 0 <=score <= 10:
+    if 0 <= score <= 10:
         scores.append(score)
+        i += 1
     else:
         print("Score is out of range.")
 
+# print(len(scores))
 print("-----")
 print("Original list:")
 print(scores)
