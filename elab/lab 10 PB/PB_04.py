@@ -4,21 +4,34 @@ def find_mode(l):
     ans_list = []
     ans_count = []
 
-    for i in l:
-        if i not in ans_list:
-            ans_list.append(i)
-            ans_count.append(1)
-        else:
-            j = 0
-            while True:
-                if ans_count[j] == i:
-                    break
-                else:
-                    j += 1
+    # set list for all ans
+    for idx in l:
+        if idx not in ans_list:
+            ans_list.append(idx)
+            ans_count.append(0)
 
-            ans_count[j] += 1
+    #print(ans_list)
 
-        print(ans_list, ans_count)
+    # bubble sort
+    for i in range(len(ans_list)):
+        for j in range(len(ans_list) - i - 1):
+            if ans_list[j] > ans_list[j+1]:
+                ans_list[j], ans_list[j+1] = ans_list[j+1], ans_list[j]
+
+    #print(ans_list)
+
+    # count every number
+    for i in range(len(ans_list)):
+        for j in range(len(scores)):
+            if scores[j] == ans_list[i]:
+                ans_count[i] += 1
+
+    # print(ans_count)
+
+    # print ans_list by finding index from max value in ans_count
+    for i in range(len(ans_list)):
+        if ans_count[i] == max(ans_count):
+            print(ans_list[i])
 
 scores = []
 

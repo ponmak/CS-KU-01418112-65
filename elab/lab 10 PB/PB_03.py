@@ -24,7 +24,7 @@ def find_sd(l):
     for i in l:
         sigma += (i - avg)**2
 
-    sd =math.sqrt(sigma/(len(l)-1))
+    sd =math.sqrt(sigma/ (len(l)-1))
 
     return max_s,min_s,avg,sd # return tuple like list but can't del value
 
