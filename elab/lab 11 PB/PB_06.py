@@ -1,18 +1,22 @@
 # 06 ถอดรหัสเด็กงี่เง่า
 
 word = input()
+new_word_list = []
 
 # creating list of vowel
 vowel = "AaEeIiOoUu"
 
-word_ls = []
-
 for i in range(len(word)):
-    word_ls.append(word[i])
-    
-    if word[i] in vowel:
-        word_ls.append("p")
-        word_ls.append(word[i])
+    if word[i] not in vowel and word[i] != 'p': # first check
+        new_word_list.append(word[i])
+    elif word[i] == 'p':
+        if word[i+1] != word[i-1]:
+           new_word_list.append(word[i])
+    else:
+        if i - 2 >= 0:
+            if word[i-2] != word[i]:
+                new_word_list.append(word[i])
+        else:
+            new_word_list.append(word[i])
 
-print("".join(word_ls))
-
+print("".join(new_word_list))
