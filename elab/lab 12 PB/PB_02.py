@@ -24,9 +24,17 @@ for word in text_list:
     while i < len(word):
         if word[i] == ' ' and temp_str == "":
             i += 1
-        elif (word[i:i+2] == '  ' or i == len(word)-1)and temp_str != "" : # Myself fix this pleaessssss
-            #print(f"last format : {temp_str}")
-            break
+        elif word[i] == ' ' and temp_str != "" : # Myself fix this pleaessssss
+
+            j = 1
+
+            if i+j < len(word) and word[i+j] != " ":
+                temp_str += word[i]
+
+            while i+j < len(word) and word[i+j] == " ":
+                j+=1
+
+            i += j
         else:
             temp_str += word[i]
             i += 1
