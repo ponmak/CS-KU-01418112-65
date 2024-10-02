@@ -4,7 +4,7 @@ import os
 n = int(input("Number of files to create: "))
 
 # Directory to save the files
-directory = 'lab 12 PB'
+directory = 'elab/lab 13 List Methods'
 
 # Create files PB_01.py to PB_n.py
 for i in range(1, n + 1):
